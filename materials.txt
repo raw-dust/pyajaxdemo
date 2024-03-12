@@ -1,6 +1,5 @@
-10,000 bricks
-1,000 tile
-50 bags morar
-200 squares shingles
-500 2x4
-3 toilets
+500 bricks
+50 tile
+5 bags morar
+2 squares shingles
+10 2x4

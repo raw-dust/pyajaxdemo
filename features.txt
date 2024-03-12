@@ -1,1 +1,6 @@
 5 trees
+3 Bedrooms
+3 Bathrooms
+Living Room
+Kitchen
+Dining Room
