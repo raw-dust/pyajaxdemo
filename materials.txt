@@ -1,6 +1,8 @@
-500 bricks
+400 bricks
 50 tile
 5 bags morar
 2 squares shingles
 10 2x4
 Wrench
+Compost
+
